@@ -2,7 +2,7 @@
 
 THE CREATION OF THIS COURSE IS STILL IN PROGRESS...
 
-### Video 1: Installation
+### Video 1: Installation       [DONE]
     Content: 
       1. Installation of ifort & intelMPI
       2. Installation of gfrotran & openMPI
@@ -12,7 +12,7 @@ THE CREATION OF THIS COURSE IS STILL IN PROGRESS...
       1. /opt
       2. bashrc
 
-### Video 2: MPI_BCAST & MPI_ALLREDUCE
+### Video 2: MPI_BCAST & MPI_ALLREDUCE      [DONE]
     Content:
       1. Explain MPI headers and foornote (hello program)
       2. Random number program 
@@ -23,7 +23,7 @@ THE CREATION OF THIS COURSE IS STILL IN PROGRESS...
       1. htop
       2. time *.exe
 
-### Video 3: MPI_SCATTER & MPI_REDUCE
+### Video 3: MPI_SCATTER & MPI_REDUCE       [IN PROGRESS]
     Content:
       1. Create linear ball travel game:
       2. Drop at random location along the length [0,1]
